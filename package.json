@@ -1,0 +1,25 @@
+{
+  "name": "gulptry",
+  "version": "1.0.0",
+  "description": "try to use gulp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitatii Bondarenko",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-copy": "^4.0.1"
+   
+  },
+  "dependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "gulp-babel": "^8.0.0",
+    "jquery": "^3.7.0"
+
+  }
+}
